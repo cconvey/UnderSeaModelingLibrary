@@ -2,7 +2,7 @@
  * @file wvector.cc
  * World vector in spherical earth coordinates.
  */
-#include <usml/types/wposition1.h>
+#include <types/wposition1.h>
 
 using namespace usml::types;
 

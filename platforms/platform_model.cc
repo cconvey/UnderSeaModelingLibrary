@@ -3,8 +3,8 @@
  * Physical object that moves through the simulation.
  */
 
-#include <usml/platforms/platform_model.h>
-#include <usml/types/wvector1.h>
+#include <platforms/platform_model.h>
+#include <types/wvector1.h>
 
 #include <boost/numeric/ublas/vector.hpp>
 #include <boost/numeric/ublas/vector_expression.hpp>

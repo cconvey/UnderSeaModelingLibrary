@@ -3,11 +3,11 @@
  * Models any flat boundary in the ocean including the ocean surface.
  */
 
-#include <usml/ocean/boundary_flat.h>
-#include <usml/ocean/reflect_loss_constant.h>
-#include <usml/ocean/reflect_loss_model.h>
-#include <usml/types/wvector.h>
-#include <usml/types/wvector1.h>
+#include <ocean/boundary_flat.h>
+#include <ocean/reflect_loss_constant.h>
+#include <ocean/reflect_loss_model.h>
+#include <types/wvector.h>
+#include <types/wvector1.h>
 
 #include <boost/numeric/ublas/expression_types.hpp>
 

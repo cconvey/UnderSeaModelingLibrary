@@ -3,10 +3,10 @@
  * Models the closed form solution of a planar array.
  */
 
-#include <usml/beampatterns/bp_planar.h>
-#include <usml/types/bvector.h>
-#include <usml/types/seq_vector.h>
-#include <usml/ublas/vector_math.h>
+#include <beampatterns/bp_planar.h>
+#include <types/bvector.h>
+#include <types/seq_vector.h>
+#include <ublas/vector_math.h>
 
 #include <boost/numeric/ublas/expression_types.hpp>
 #include <boost/numeric/ublas/vector.hpp>

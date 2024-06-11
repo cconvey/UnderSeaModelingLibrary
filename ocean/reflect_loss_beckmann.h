@@ -4,8 +4,8 @@
  */
 #pragma once
 
-#include <usml/ocean/reflect_loss_model.h>
-#include <usml/ocean/wave_height_pierson.h>
+#include <ocean/reflect_loss_model.h>
+#include <ocean/wave_height_pierson.h>
 
 namespace usml {
 namespace ocean {

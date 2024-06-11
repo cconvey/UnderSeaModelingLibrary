@@ -5,7 +5,7 @@
  */
 #pragma once
 
-#include <usml/ublas/math_traits.h>
+#include <ublas/math_traits.h>
 
 #include <boost/numeric/ublas/functional.hpp>
 #include <complex>

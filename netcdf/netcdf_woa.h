@@ -4,8 +4,8 @@
  */
 #pragma once
 
-#include <usml/netcdf/netcdf_profile.h>
-#include <usml/usml_config.h>
+#include <netcdf/netcdf_profile.h>
+#include <usml_config.h>
 
 namespace usml {
 namespace netcdf {

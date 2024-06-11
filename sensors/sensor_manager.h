@@ -5,13 +5,13 @@
 #pragma once
 
 #include <bits/exception.h>
-#include <usml/managed/manager_template.h>
-#include <usml/managed/update_listener.h>
-#include <usml/sensors/sensor_model.h>
-#include <usml/sensors/sensor_pair.h>
-#include <usml/threads/read_write_lock.h>
-#include <usml/types/seq_vector.h>
-#include <usml/usml_config.h>
+#include <managed/manager_template.h>
+#include <managed/update_listener.h>
+#include <sensors/sensor_model.h>
+#include <sensors/sensor_pair.h>
+#include <threads/read_write_lock.h>
+#include <types/seq_vector.h>
+#include <usml_config.h>
 
 #include <memory>
 #include <set>

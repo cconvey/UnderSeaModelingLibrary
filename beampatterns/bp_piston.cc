@@ -3,9 +3,9 @@
  * Piston hydrophone model oriented along the front/forward axis
  */
 
-#include <usml/beampatterns/bp_piston.h>
-#include <usml/types/bvector.h>
-#include <usml/types/seq_vector.h>
+#include <beampatterns/bp_piston.h>
+#include <types/bvector.h>
+#include <types/seq_vector.h>
 
 #include <boost/numeric/ublas/vector.hpp>
 #include <cmath>

@@ -2,7 +2,7 @@
  * @file reflect_loss_rayleigh.cc
  * Models plane wave reflection from a flat fluid-solid interface.
  */
-#include <usml/ocean/reflect_loss_rayleigh.h>
+#include <ocean/reflect_loss_rayleigh.h>
 
 using namespace usml::ocean;
 

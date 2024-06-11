@@ -24,6 +24,6 @@
  */
 #pragma once
 
-#include <usml/sensors/sensor_manager.h>
-#include <usml/sensors/sensor_model.h>
-#include <usml/sensors/sensor_pair.h>
+#include <sensors/sensor_manager.h>
+#include <sensors/sensor_model.h>
+#include <sensors/sensor_pair.h>

@@ -3,7 +3,7 @@
  * Models a sloping flat bottom.
  */
 
-#include <usml/ocean/boundary_slope.h>
+#include <ocean/boundary_slope.h>
 
 using namespace usml::ocean;
 

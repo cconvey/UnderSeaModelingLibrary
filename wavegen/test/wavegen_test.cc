@@ -2,13 +2,13 @@
  * @example wavegen/test/wavegen_test.cc
  */
 
-#include <usml/ocean/ocean_utils.h>
-#include <usml/platforms/platform_manager.h>
-#include <usml/platforms/platform_model.h>
-#include <usml/sensors/sensor_manager.h>
-#include <usml/sensors/sensor_model.h>
-#include <usml/threads/thread_task.h>
-#include <usml/wavegen/wavefront_listener.h>
+#include <ocean/ocean_utils.h>
+#include <platforms/platform_manager.h>
+#include <platforms/platform_model.h>
+#include <sensors/sensor_manager.h>
+#include <sensors/sensor_model.h>
+#include <threads/thread_task.h>
+#include <wavegen/wavefront_listener.h>
 
 #include <boost/test/unit_test.hpp>
 #include <iostream>

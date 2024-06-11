@@ -4,9 +4,9 @@
  */
 #pragma once
 
-#include <usml/transmit/transmit_model.h>
-#include <usml/transmit/window.h>
-#include <usml/usml_config.h>
+#include <transmit/transmit_model.h>
+#include <transmit/window.h>
+#include <usml_config.h>
 
 #include <string>
 

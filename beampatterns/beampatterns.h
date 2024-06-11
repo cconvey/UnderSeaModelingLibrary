@@ -15,15 +15,15 @@
  */
 #pragma once
 
-#include <usml/beampatterns/beampattern_utilities.h>
-#include <usml/beampatterns/bp_model.h>
-#include <usml/beampatterns/bp_arb.h>
-#include <usml/beampatterns/bp_cardioid.h>
-#include <usml/beampatterns/bp_line.h>
-#include <usml/beampatterns/bp_multi.h>
-#include <usml/beampatterns/bp_omni.h>
-#include <usml/beampatterns/bp_piston.h>
-#include <usml/beampatterns/bp_planar.h>
-#include <usml/beampatterns/bp_trig.h>
-#include <usml/beampatterns/bp_grid.h>
-#include <usml/beampatterns/bp_solid.h>
+#include <beampatterns/beampattern_utilities.h>
+#include <beampatterns/bp_model.h>
+#include <beampatterns/bp_arb.h>
+#include <beampatterns/bp_cardioid.h>
+#include <beampatterns/bp_line.h>
+#include <beampatterns/bp_multi.h>
+#include <beampatterns/bp_omni.h>
+#include <beampatterns/bp_piston.h>
+#include <beampatterns/bp_planar.h>
+#include <beampatterns/bp_trig.h>
+#include <beampatterns/bp_grid.h>
+#include <beampatterns/bp_solid.h>

@@ -12,7 +12,7 @@
  */
 #pragma once
 
-#include <usml/transmit/transmit.h>
-#include <usml/transmit/transmit_cw.h>
-#include <usml/transmit/transmit_lfm.h>
-#include <usml/transmit/transmit_model.h>
+#include <transmit/transmit.h>
+#include <transmit/transmit_cw.h>
+#include <transmit/transmit_lfm.h>
+#include <transmit/transmit_model.h>

@@ -1,7 +1,7 @@
 /**
  * @example types/test/orientation_test.cc
  */
-#include <usml/types/orientation.h>
+#include <types/orientation.h>
 
 #include <boost/test/unit_test.hpp>
 #include <boost/numeric/ublas/assignment.hpp>

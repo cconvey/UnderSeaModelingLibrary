@@ -2,13 +2,13 @@
  * @example types/test/datagrid_test.cc
  */
 
-#include <usml/types/data_grid.h>
-#include <usml/types/data_grid_bathy.h>
-#include <usml/types/gen_grid.h>
-#include <usml/types/seq_linear.h>
-#include <usml/types/seq_log.h>
-#include <usml/types/seq_vector.h>
-#include <usml/ublas/randgen.h>
+#include <types/data_grid.h>
+#include <types/data_grid_bathy.h>
+#include <types/gen_grid.h>
+#include <types/seq_linear.h>
+#include <types/seq_log.h>
+#include <types/seq_vector.h>
+#include <ublas/randgen.h>
 
 #include <boost/numeric/ublas/expression_types.hpp>
 #include <boost/numeric/ublas/io.hpp>

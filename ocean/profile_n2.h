@@ -4,7 +4,7 @@
  */
 #pragma once
 
-#include <usml/ocean/profile_model.h>
+#include <ocean/profile_model.h>
 
 namespace usml {
 namespace ocean {

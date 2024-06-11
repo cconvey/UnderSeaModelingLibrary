@@ -3,28 +3,28 @@
  * Ocean generation utilities.
  */
 
-#include <usml/netcdf/netcdf_bathy.h>
-#include <usml/netcdf/netcdf_woa.h>
-#include <usml/ocean/attenuation_constant.h>
-#include <usml/ocean/attenuation_model.h>
-#include <usml/ocean/boundary_flat.h>
-#include <usml/ocean/boundary_grid.h>
-#include <usml/ocean/boundary_model.h>
-#include <usml/ocean/data_grid_mackenzie.h>
-#include <usml/ocean/ocean_model.h>
-#include <usml/ocean/ocean_shared.h>
-#include <usml/ocean/ocean_utils.h>
-#include <usml/ocean/profile_grid.h>
-#include <usml/ocean/profile_linear.h>
-#include <usml/ocean/profile_model.h>
-#include <usml/ocean/reflect_loss_constant.h>
-#include <usml/ocean/reflect_loss_eckart.h>
-#include <usml/ocean/reflect_loss_model.h>
-#include <usml/ocean/reflect_loss_rayleigh.h>
-#include <usml/ocean/scattering_chapman.h>
-#include <usml/ocean/scattering_constant.h>
-#include <usml/ocean/scattering_lambert.h>
-#include <usml/types/data_grid.h>
+#include <netcdf/netcdf_bathy.h>
+#include <netcdf/netcdf_woa.h>
+#include <ocean/attenuation_constant.h>
+#include <ocean/attenuation_model.h>
+#include <ocean/boundary_flat.h>
+#include <ocean/boundary_grid.h>
+#include <ocean/boundary_model.h>
+#include <ocean/data_grid_mackenzie.h>
+#include <ocean/ocean_model.h>
+#include <ocean/ocean_shared.h>
+#include <ocean/ocean_utils.h>
+#include <ocean/profile_grid.h>
+#include <ocean/profile_linear.h>
+#include <ocean/profile_model.h>
+#include <ocean/reflect_loss_constant.h>
+#include <ocean/reflect_loss_eckart.h>
+#include <ocean/reflect_loss_model.h>
+#include <ocean/reflect_loss_rayleigh.h>
+#include <ocean/scattering_chapman.h>
+#include <ocean/scattering_constant.h>
+#include <ocean/scattering_lambert.h>
+#include <types/data_grid.h>
 
 using namespace usml::netcdf;
 using namespace usml::ocean;

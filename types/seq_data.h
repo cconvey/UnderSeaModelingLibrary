@@ -4,7 +4,7 @@
  */
 #pragma once
 
-#include <usml/types/seq_vector.h>
+#include <types/seq_vector.h>
 
 #include <boost/numeric/ublas/vector.hpp>
 

@@ -5,10 +5,10 @@
 #pragma once
 
 #include <stddef.h>
-#include <usml/types/data_grid.h>
-#include <usml/types/gen_grid.h>
-#include <usml/types/seq_vector.h>
-#include <usml/types/wposition.h>
+#include <types/data_grid.h>
+#include <types/gen_grid.h>
+#include <types/seq_vector.h>
+#include <types/wposition.h>
 
 namespace usml {
 namespace ocean {

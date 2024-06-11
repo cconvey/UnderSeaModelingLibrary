@@ -1,20 +1,20 @@
 /**
  * @example ocean/test/boundary_test.cc
  */
-#include <usml/netcdf/netcdf_bathy.h>
-#include <usml/ocean/ascii_arc_bathy.h>
-#include <usml/ocean/boundary_flat.h>
-#include <usml/ocean/boundary_grid.h>
-#include <usml/ocean/boundary_model.h>
-#include <usml/ocean/boundary_slope.h>
-#include <usml/ocean/ocean_model.h>
-#include <usml/ocean/profile_linear.h>
-#include <usml/ocean/profile_model.h>
-#include <usml/ocean/scattering_chapman.h>
-#include <usml/ocean/scattering_lambert.h>
-#include <usml/ocean/volume_flat.h>
-#include <usml/ocean/volume_model.h>
-#include <usml/types/types.h>
+#include <netcdf/netcdf_bathy.h>
+#include <ocean/ascii_arc_bathy.h>
+#include <ocean/boundary_flat.h>
+#include <ocean/boundary_grid.h>
+#include <ocean/boundary_model.h>
+#include <ocean/boundary_slope.h>
+#include <ocean/ocean_model.h>
+#include <ocean/profile_linear.h>
+#include <ocean/profile_model.h>
+#include <ocean/scattering_chapman.h>
+#include <ocean/scattering_lambert.h>
+#include <ocean/volume_flat.h>
+#include <ocean/volume_model.h>
+#include <types/types.h>
 
 #include <boost/test/unit_test.hpp>
 #include <fstream>

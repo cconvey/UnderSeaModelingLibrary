@@ -2,7 +2,7 @@
  * @file reflect_loss_beckmann.cc
  * Models plane wave reflection from a flat fluid-solid interface.
  */
-#include <usml/ocean/reflect_loss_beckmann.h>
+#include <ocean/reflect_loss_beckmann.h>
 
 using namespace usml::ocean;
 

@@ -2,7 +2,7 @@
  * @example transmit/test/transmit_test.cc
  */
 
-#include <usml/transmit/transmit.h>
+#include <transmit/transmit.h>
 
 #include <boost/test/unit_test.hpp>
 #include <fstream>

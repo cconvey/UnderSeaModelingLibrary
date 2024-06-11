@@ -3,7 +3,7 @@
  * Manage eigenray listeners and distribute eigenray updates.
  */
 
-#include <usml/eigenrays/eigenray_notifier.h>
+#include <eigenrays/eigenray_notifier.h>
 
 using namespace usml::eigenrays;
 

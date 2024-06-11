@@ -3,20 +3,20 @@
  * Modeling products for a link between source and receiver.
  */
 
-#include <usml/biverbs/biverb_generator.h>
-#include <usml/eigenrays/eigenray_model.h>
-#include <usml/managed/manager_template.h>
-#include <usml/platforms/platform_model.h>
-#include <usml/rvbts/rvbts_generator.h>
-#include <usml/sensors/sensor_manager.h>
-#include <usml/sensors/sensor_pair.h>
-#include <usml/threads/thread_controller.h>
-#include <usml/threads/thread_pool.h>
-#include <usml/threads/thread_task.h>
-#include <usml/types/seq_linear.h>
-#include <usml/types/seq_vector.h>
-#include <usml/types/wposition.h>
-#include <usml/types/wposition1.h>
+#include <biverbs/biverb_generator.h>
+#include <eigenrays/eigenray_model.h>
+#include <managed/manager_template.h>
+#include <platforms/platform_model.h>
+#include <rvbts/rvbts_generator.h>
+#include <sensors/sensor_manager.h>
+#include <sensors/sensor_pair.h>
+#include <threads/thread_controller.h>
+#include <threads/thread_pool.h>
+#include <threads/thread_task.h>
+#include <types/seq_linear.h>
+#include <types/seq_vector.h>
+#include <types/wposition.h>
+#include <types/wposition1.h>
 
 #include <boost/numeric/ublas/matrix.hpp>
 #include <sstream>

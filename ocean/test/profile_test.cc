@@ -1,17 +1,17 @@
 /**
  * @example ocean/test/profile_test.cc
  */
-#include <usml/netcdf/netcdf_woa.h>
-#include <usml/ocean/ascii_profile.h>
-#include <usml/ocean/data_grid_mackenzie.h>
-#include <usml/ocean/profile_catenary.h>
-#include <usml/ocean/profile_grid.h>
-#include <usml/ocean/profile_linear.h>
-#include <usml/ocean/profile_model.h>
-#include <usml/ocean/profile_munk.h>
-#include <usml/ocean/profile_n2.h>
-#include <usml/types/types.h>
-#include <usml/ublas/ublas.h>
+#include <netcdf/netcdf_woa.h>
+#include <ocean/ascii_profile.h>
+#include <ocean/data_grid_mackenzie.h>
+#include <ocean/profile_catenary.h>
+#include <ocean/profile_grid.h>
+#include <ocean/profile_linear.h>
+#include <ocean/profile_model.h>
+#include <ocean/profile_munk.h>
+#include <ocean/profile_n2.h>
+#include <types/types.h>
+#include <ublas/ublas.h>
 
 #include <boost/test/unit_test.hpp>
 #include <fstream>

@@ -3,7 +3,7 @@
  * Models a beam pattern based on arbitrary 3D element locations.
  */
 
-#include <usml/beampatterns/bp_arb.h>
+#include <beampatterns/bp_arb.h>
 
 #include <boost/numeric/ublas/vector_expression.hpp>
 #include <cmath>

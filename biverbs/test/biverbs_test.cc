@@ -2,19 +2,19 @@
  * @example biverbs/test/biverbs_test.cc
  */
 
-#include <usml/biverbs/biverb_model.h>
-#include <usml/biverbs/biverbs.h>
-#include <usml/eigenverbs/eigenverb_collection.h>
-#include <usml/eigenverbs/eigenverb_model.h>
-#include <usml/ocean/ocean_utils.h>
-#include <usml/sensors/sensor_manager.h>
-#include <usml/sensors/test/simple_sonobuoy.h>
-#include <usml/threads/thread_task.h>
-#include <usml/types/seq_linear.h>
-#include <usml/types/seq_vector.h>
-#include <usml/types/wposition.h>
-#include <usml/types/wposition1.h>
-#include <usml/ublas/math_traits.h>
+#include <biverbs/biverb_model.h>
+#include <biverbs/biverbs.h>
+#include <eigenverbs/eigenverb_collection.h>
+#include <eigenverbs/eigenverb_model.h>
+#include <ocean/ocean_utils.h>
+#include <sensors/sensor_manager.h>
+#include <sensors/test/simple_sonobuoy.h>
+#include <threads/thread_task.h>
+#include <types/seq_linear.h>
+#include <types/seq_vector.h>
+#include <types/wposition.h>
+#include <types/wposition1.h>
+#include <ublas/math_traits.h>
 
 #include <boost/numeric/ublas/vector.hpp>
 #include <boost/test/unit_test.hpp>

@@ -4,10 +4,10 @@
  */
 #pragma once
 
-#include <usml/eigenrays/eigenray_collection.h>
-#include <usml/eigenverbs/eigenverb_collection.h>
-#include <usml/usml_config.h>
-#include <usml/wavegen/wavefront_listener.h>
+#include <eigenrays/eigenray_collection.h>
+#include <eigenverbs/eigenverb_collection.h>
+#include <usml_config.h>
+#include <wavegen/wavefront_listener.h>
 
 #include <set>
 

@@ -4,13 +4,13 @@
  */
 #pragma once
 
-#include <usml/biverbs/biverb_model.h>
-#include <usml/sensors/sensor_model.h>
-#include <usml/transmit/transmit_model.h>
-#include <usml/types/orientation.h>
-#include <usml/types/seq_vector.h>
-#include <usml/types/wposition1.h>
-#include <usml/usml_config.h>
+#include <biverbs/biverb_model.h>
+#include <sensors/sensor_model.h>
+#include <transmit/transmit_model.h>
+#include <types/orientation.h>
+#include <types/seq_vector.h>
+#include <types/wposition1.h>
+#include <usml_config.h>
 
 #include <boost/numeric/ublas/matrix.hpp>
 #include <memory>

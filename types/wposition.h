@@ -5,8 +5,8 @@
  */
 #pragma once
 
-#include <usml/types/wvector.h>
-#include <usml/ublas/ublas.h>
+#include <types/wvector.h>
+#include <ublas/ublas.h>
 
 namespace usml {
 namespace types {

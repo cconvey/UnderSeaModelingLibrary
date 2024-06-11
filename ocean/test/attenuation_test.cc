@@ -1,7 +1,7 @@
 /**
  * @example ocean/test/attenuation_test.cc
  */
-#include <usml/ocean/ocean.h>
+#include <ocean/ocean.h>
 
 #include <boost/test/unit_test.hpp>
 #include <fstream>

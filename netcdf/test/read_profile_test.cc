@@ -1,7 +1,7 @@
 /**
  * @example netcdf/test/read_profile_test.cc
  */
-#include <usml/netcdf/netcdf_files.h>
+#include <netcdf/netcdf_files.h>
 
 #include <boost/test/unit_test.hpp>
 #include <fstream>

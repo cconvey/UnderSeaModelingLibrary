@@ -42,7 +42,7 @@ option( USML_BUILD_TESTS "build all Tests" ON )
 option( USML_BUILD_STUDIES "build all Studies" OFF )
 
 include ( USMLUse )
-include_directories( ${PROJECT_SOURCE_DIR}/.. )
+include_directories( ${PROJECT_SOURCE_DIR} )
 include_directories(    # ignore warnings in Boost and NetCDF includes
     SYSTEM
     ${Boost_INCLUDE_DIR}

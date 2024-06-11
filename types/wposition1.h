@@ -4,9 +4,9 @@
  */
 #pragma once
 
-#include <usml/ublas/ublas.h>
-#include <usml/types/wvector1.h>
-#include <usml/types/wposition.h>
+#include <ublas/ublas.h>
+#include <types/wvector1.h>
+#include <types/wposition.h>
 
 namespace usml {
 namespace types {

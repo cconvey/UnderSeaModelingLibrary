@@ -17,28 +17,28 @@
  *
  */
 
-#include <usml/netcdf/netcdf_bathy.h>
-#include <usml/netcdf/netcdf_woa.h>
-#include <usml/ocean/boundary_flat.h>
-#include <usml/ocean/boundary_grid.h>
-#include <usml/ocean/boundary_model.h>
-#include <usml/ocean/data_grid_mackenzie.h>
-#include <usml/ocean/ocean_model.h>
-#include <usml/ocean/profile_grid.h>
-#include <usml/ocean/profile_model.h>
-#include <usml/types/data_grid.h>
-#include <usml/types/seq_linear.h>
-#include <usml/types/seq_log.h>
-#include <usml/types/seq_rayfan.h>
-#include <usml/types/seq_vector.h>
-#include <usml/types/wposition.h>
-#include <usml/types/wposition1.h>
-#include <usml/types/wvector.h>
-#include <usml/ublas/randgen.h>
-#include <usml/waveq3d/wave_queue.h>
+#include <netcdf/netcdf_bathy.h>
+#include <netcdf/netcdf_woa.h>
+#include <ocean/boundary_flat.h>
+#include <ocean/boundary_grid.h>
+#include <ocean/boundary_model.h>
+#include <ocean/data_grid_mackenzie.h>
+#include <ocean/ocean_model.h>
+#include <ocean/profile_grid.h>
+#include <ocean/profile_model.h>
+#include <types/data_grid.h>
+#include <types/seq_linear.h>
+#include <types/seq_log.h>
+#include <types/seq_rayfan.h>
+#include <types/seq_vector.h>
+#include <types/wposition.h>
+#include <types/wposition1.h>
+#include <types/wvector.h>
+#include <ublas/randgen.h>
+#include <waveq3d/wave_queue.h>
 
 #include <boost/timer/timer.hpp>
-#include <usml/eigenrays/eigenray_collection.h>
+#include <eigenrays/eigenray_collection.h>
 #include <cstddef>
 #include <cstdlib>
 #include <iostream>

@@ -6,8 +6,8 @@
 
 #include <ncvalues.h>
 #include <netcdfcpp.h>
-#include <usml/types/gen_grid.h>
-#include <usml/types/seq_vector.h>
+#include <types/gen_grid.h>
+#include <types/seq_vector.h>
 
 #include <cmath>
 #include <cstddef>

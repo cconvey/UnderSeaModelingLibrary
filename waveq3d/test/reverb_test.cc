@@ -2,31 +2,31 @@
  * @example waveq3d/test/reverb_test.cc
  */
 
-#include <usml/eigenrays/eigenray_collection.h>
-#include <usml/eigenrays/eigenray_model.h>
-#include <usml/eigenverbs/eigenverb_collection.h>
-#include <usml/eigenverbs/eigenverb_model.h>
-#include <usml/ocean/attenuation_constant.h>
-#include <usml/ocean/attenuation_model.h>
-#include <usml/ocean/boundary_flat.h>
-#include <usml/ocean/boundary_model.h>
-#include <usml/ocean/ocean_model.h>
-#include <usml/ocean/profile_linear.h>
-#include <usml/ocean/profile_model.h>
-#include <usml/ocean/profile_munk.h>
-#include <usml/ocean/reflect_loss_model.h>
-#include <usml/ocean/reflect_loss_rayleigh.h>
-#include <usml/ocean/volume_flat.h>
-#include <usml/ocean/volume_model.h>
-#include <usml/types/seq_linear.h>
-#include <usml/types/seq_log.h>
-#include <usml/types/seq_rayfan.h>
-#include <usml/types/seq_vector.h>
-#include <usml/types/wposition.h>
-#include <usml/types/wposition1.h>
-#include <usml/ublas/math_traits.h>
-#include <usml/waveq3d/wave_queue.h>
-#include <usml/waveq3d/wave_thresholds.h>
+#include <eigenrays/eigenray_collection.h>
+#include <eigenrays/eigenray_model.h>
+#include <eigenverbs/eigenverb_collection.h>
+#include <eigenverbs/eigenverb_model.h>
+#include <ocean/attenuation_constant.h>
+#include <ocean/attenuation_model.h>
+#include <ocean/boundary_flat.h>
+#include <ocean/boundary_model.h>
+#include <ocean/ocean_model.h>
+#include <ocean/profile_linear.h>
+#include <ocean/profile_model.h>
+#include <ocean/profile_munk.h>
+#include <ocean/reflect_loss_model.h>
+#include <ocean/reflect_loss_rayleigh.h>
+#include <ocean/volume_flat.h>
+#include <ocean/volume_model.h>
+#include <types/seq_linear.h>
+#include <types/seq_log.h>
+#include <types/seq_rayfan.h>
+#include <types/seq_vector.h>
+#include <types/wposition.h>
+#include <types/wposition1.h>
+#include <ublas/math_traits.h>
+#include <waveq3d/wave_queue.h>
+#include <waveq3d/wave_thresholds.h>
 
 #include <boost/numeric/ublas/matrix.hpp>
 #include <boost/test/unit_test.hpp>

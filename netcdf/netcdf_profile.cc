@@ -2,10 +2,10 @@
  * @file netcdf_profile.cc
  * Extracts ocean profile data from world-wide databases.
  */
-#include <usml/netcdf/netcdf_profile.h>
-#include <usml/types/seq_data.h>
-#include <usml/types/seq_linear.h>
-#include <usml/types/seq_vector.h>
+#include <netcdf/netcdf_profile.h>
+#include <types/seq_data.h>
+#include <types/seq_linear.h>
+#include <types/seq_vector.h>
 
 #include <boost/algorithm/string/predicate.hpp>
 

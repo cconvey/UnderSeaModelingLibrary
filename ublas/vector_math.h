@@ -21,7 +21,7 @@
  */
 #pragma once
 
-#include <usml/ublas/scalar_math.h>
+#include <ublas/scalar_math.h>
 
 #include <boost/core/enable_if.hpp>
 #include <boost/numeric/ublas/detail/config.hpp>

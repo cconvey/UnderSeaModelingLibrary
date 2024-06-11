@@ -6,12 +6,12 @@
 
 #include <ncvalues.h>
 #include <netcdfcpp.h>
-#include <usml/beampatterns/bp_model.h>
-#include <usml/rvbts/rvbts_collection.h>
-#include <usml/types/bvector.h>
-#include <usml/types/seq_linear.h>
-#include <usml/ublas/math_traits.h>
-#include <usml/ublas/vector_math.h>
+#include <beampatterns/bp_model.h>
+#include <rvbts/rvbts_collection.h>
+#include <types/bvector.h>
+#include <types/seq_linear.h>
+#include <ublas/math_traits.h>
+#include <ublas/vector_math.h>
 
 #include <boost/numeric/ublas/fwd.hpp>
 #include <boost/numeric/ublas/storage.hpp>

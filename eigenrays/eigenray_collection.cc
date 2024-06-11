@@ -5,9 +5,9 @@
 
 #include <ncvalues.h>
 #include <netcdfcpp.h>
-#include <usml/eigenrays/eigenray_collection.h>
-#include <usml/types/wvector1.h>
-#include <usml/ublas/math_traits.h>
+#include <eigenrays/eigenray_collection.h>
+#include <types/wvector1.h>
+#include <ublas/math_traits.h>
 
 #include <algorithm>
 #include <boost/numeric/ublas/storage.hpp>

@@ -4,14 +4,14 @@
  */
 #pragma once
 
-#include <usml/eigenrays/eigenray_listener.h>
-#include <usml/eigenrays/eigenray_model.h>
-#include <usml/ocean/profile_model.h>
-#include <usml/types/seq_vector.h>
-#include <usml/types/wposition.h>
-#include <usml/types/wposition1.h>
-#include <usml/types/wvector.h>
-#include <usml/usml_config.h>
+#include <eigenrays/eigenray_listener.h>
+#include <eigenrays/eigenray_model.h>
+#include <ocean/profile_model.h>
+#include <types/seq_vector.h>
+#include <types/wposition.h>
+#include <types/wposition1.h>
+#include <types/wvector.h>
+#include <usml_config.h>
 
 #include <boost/numeric/ublas/matrix.hpp>
 #include <cstddef>

@@ -17,6 +17,6 @@
  */
 #pragma once
 
-#include <usml/biverbs/biverb_model.h>
-#include <usml/biverbs/biverb_collection.h>
-#include <usml/biverbs/biverb_generator.h>
+#include <biverbs/biverb_model.h>
+#include <biverbs/biverb_collection.h>
+#include <biverbs/biverb_generator.h>

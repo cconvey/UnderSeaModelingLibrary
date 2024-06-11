@@ -4,7 +4,7 @@
  */
 #pragma once
 
-#include <usml/ublas/ublas.h>
+#include <ublas/ublas.h>
 
 namespace usml {
 namespace types {

@@ -3,11 +3,11 @@
  * Background task to compute reverberation time series for a bistatic pair.
  */
 
-#include <usml/managed/managed_obj.h>
-#include <usml/platforms/platform_model.h>
-#include <usml/rvbts/rvbts_generator.h>
-#include <usml/types/bvector.h>
-#include <usml/types/seq_linear.h>
+#include <managed/managed_obj.h>
+#include <platforms/platform_model.h>
+#include <rvbts/rvbts_generator.h>
+#include <types/bvector.h>
+#include <types/seq_linear.h>
 
 #include <boost/numeric/ublas/expression_types.hpp>
 #include <boost/numeric/ublas/matrix.hpp>

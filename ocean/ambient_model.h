@@ -4,9 +4,9 @@
  */
 #pragma once
 
-#include <usml/types/seq_vector.h>
-#include <usml/types/wposition1.h>
-#include <usml/usml_config.h>
+#include <types/seq_vector.h>
+#include <types/wposition1.h>
+#include <usml_config.h>
 
 #include <boost/numeric/ublas/vector.hpp>
 #include <memory>

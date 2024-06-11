@@ -3,7 +3,7 @@
  * Manage reflection listeners and distribute reflection updates.
  */
 
-#include <usml/waveq3d/reflection_notifier.h>
+#include <waveq3d/reflection_notifier.h>
 
 #include <utility>
 

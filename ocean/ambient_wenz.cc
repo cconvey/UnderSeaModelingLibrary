@@ -3,8 +3,8 @@
  * Wenz model for ambient noise in the ocean.
  */
 
-#include <usml/ocean/ambient_wenz.h>
-#include <usml/ublas/vector_math.h>
+#include <ocean/ambient_wenz.h>
+#include <ublas/vector_math.h>
 
 using namespace usml::ublas;
 using namespace usml::ocean;

@@ -2,23 +2,23 @@
  * @example studies/simple_wedge/simple_wedge.cc
  */
 
-#include <usml/eigenrays/eigenray_collection.h>
-#include <usml/ocean/attenuation_constant.h>
-#include <usml/ocean/attenuation_model.h>
-#include <usml/ocean/boundary_flat.h>
-#include <usml/ocean/boundary_model.h>
-#include <usml/ocean/boundary_slope.h>
-#include <usml/ocean/ocean_model.h>
-#include <usml/ocean/profile_linear.h>
-#include <usml/ocean/profile_model.h>
-#include <usml/ocean/reflect_loss_constant.h>
-#include <usml/ocean/reflect_loss_model.h>
-#include <usml/types/seq_linear.h>
-#include <usml/types/seq_vector.h>
-#include <usml/types/wposition.h>
-#include <usml/types/wposition1.h>
-#include <usml/ublas/math_traits.h>
-#include <usml/waveq3d/wave_queue.h>
+#include <eigenrays/eigenray_collection.h>
+#include <ocean/attenuation_constant.h>
+#include <ocean/attenuation_model.h>
+#include <ocean/boundary_flat.h>
+#include <ocean/boundary_model.h>
+#include <ocean/boundary_slope.h>
+#include <ocean/ocean_model.h>
+#include <ocean/profile_linear.h>
+#include <ocean/profile_model.h>
+#include <ocean/reflect_loss_constant.h>
+#include <ocean/reflect_loss_model.h>
+#include <types/seq_linear.h>
+#include <types/seq_vector.h>
+#include <types/wposition.h>
+#include <types/wposition1.h>
+#include <ublas/math_traits.h>
+#include <waveq3d/wave_queue.h>
 
 #include <cstddef>
 #include <iostream>

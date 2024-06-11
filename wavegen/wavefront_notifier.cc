@@ -3,7 +3,7 @@
  * Manage wavefront listeners and distribute wavefront updates.
  */
 
-#include <usml/wavegen/wavefront_notifier.h>
+#include <wavegen/wavefront_notifier.h>
 
 #include <utility>
 

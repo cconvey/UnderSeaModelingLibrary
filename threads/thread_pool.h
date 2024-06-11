@@ -4,9 +4,9 @@
  */
 #pragma once
 
-#include <usml/threads/read_write_lock.h>
-#include <usml/threads/thread_task.h>
-#include <usml/usml_config.h>
+#include <threads/read_write_lock.h>
+#include <threads/thread_task.h>
+#include <usml_config.h>
 
 #include <atomic>
 #include <queue>

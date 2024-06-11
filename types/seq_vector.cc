@@ -3,10 +3,10 @@
  * A read-only, monotonic sequence of values.
  */
 
-#include <usml/types/seq_data.h>
-#include <usml/types/seq_linear.h>
-#include <usml/types/seq_log.h>
-#include <usml/types/seq_vector.h>
+#include <types/seq_data.h>
+#include <types/seq_linear.h>
+#include <types/seq_log.h>
+#include <types/seq_vector.h>
 
 #include <boost/numeric/ublas/storage.hpp>
 #include <cstdlib>

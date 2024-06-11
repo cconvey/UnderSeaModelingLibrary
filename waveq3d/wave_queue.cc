@@ -2,12 +2,12 @@
  * @file wave_queue.cc
  * Wavefront propagation as a function of time.
  */
-#include <usml/eigenverbs/eigenverb_model.h>
-#include <usml/waveq3d/ode_integ.h>
-#include <usml/waveq3d/reflection_model.h>
-#include <usml/waveq3d/spreading_hybrid_gaussian.h>
-#include <usml/waveq3d/spreading_ray.h>
-#include <usml/waveq3d/wave_queue.h>
+#include <eigenverbs/eigenverb_model.h>
+#include <waveq3d/ode_integ.h>
+#include <waveq3d/reflection_model.h>
+#include <waveq3d/spreading_hybrid_gaussian.h>
+#include <waveq3d/spreading_ray.h>
+#include <waveq3d/wave_queue.h>
 
 #include <boost/numeric/ublas/lu.hpp>
 #include <boost/numeric/ublas/triangular.hpp>

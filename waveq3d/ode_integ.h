@@ -4,9 +4,9 @@
  */
 #pragma once
 
-#include <usml/waveq3d/wave_queue.h>
-#include <usml/waveq3d/wave_front.h>
-#include <usml/waveq3d/reflection_model.h>
+#include <waveq3d/wave_queue.h>
+#include <waveq3d/wave_front.h>
+#include <waveq3d/reflection_model.h>
 
 namespace usml {
 namespace waveq3d {

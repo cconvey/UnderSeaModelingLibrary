@@ -4,9 +4,9 @@
  */
 #pragma once
 
-#include <usml/types/gen_grid.h>
-#include <usml/types/seq_vector.h>
-#include <usml/usml_config.h>
+#include <types/gen_grid.h>
+#include <types/seq_vector.h>
+#include <usml_config.h>
 
 #include <boost/numeric/ublas/detail/iterator.hpp>
 #include <boost/numeric/ublas/matrix.hpp>

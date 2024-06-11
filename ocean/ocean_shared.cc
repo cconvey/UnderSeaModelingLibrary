@@ -2,7 +2,7 @@
  * @file ocean_shared.cc
  * Shares an ocean singleton across multiple threads.
  */
-#include <usml/ocean/ocean_shared.h>
+#include <ocean/ocean_shared.h>
 
 #include <utility>
 

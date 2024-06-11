@@ -3,10 +3,10 @@
  * Extracts ocean profile data from world-wide databases.
  */
 
-#include <usml/netcdf/netcdf_woa.h>
-#include <usml/types/data_grid.h>
-#include <usml/types/gen_grid.h>
-#include <usml/types/seq_vector.h>
+#include <netcdf/netcdf_woa.h>
+#include <types/data_grid.h>
+#include <types/gen_grid.h>
+#include <types/seq_vector.h>
 
 #include <algorithm>
 #include <cmath>

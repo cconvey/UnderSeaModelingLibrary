@@ -3,8 +3,8 @@
  * Combines the responses of multiple beampattern models into a single model.
  */
 
-#include <usml/beampatterns/bp_multi.h>
-#include <usml/types/orientation.h>
+#include <beampatterns/bp_multi.h>
+#include <types/orientation.h>
 
 using namespace usml::beampatterns;
 

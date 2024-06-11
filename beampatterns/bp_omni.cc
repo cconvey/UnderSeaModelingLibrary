@@ -2,7 +2,7 @@
  * @file bp_omni.cc
  * Omni-directional beam pattern.
  */
-#include <usml/beampatterns/bp_omni.h>
+#include <beampatterns/bp_omni.h>
 
 using namespace usml::beampatterns;
 

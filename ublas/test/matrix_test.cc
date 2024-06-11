@@ -1,9 +1,9 @@
 /**
  * @example ublas/test/matrix_test.cc
  */
-#include <usml/ublas/matrix_math.h>
-#include <usml/ublas/test/matrix_test_support.h>
-#include <usml/ublas/vector_math.h>
+#include <ublas/matrix_math.h>
+#include <ublas/test/matrix_test_support.h>
+#include <ublas/vector_math.h>
 
 #include <boost/numeric/ublas/matrix_proxy.hpp>
 #include <boost/numeric/ublas/vector_proxy.hpp>

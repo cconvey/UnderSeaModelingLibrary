@@ -3,7 +3,7 @@
  * Models plane wave reflection from a bottom types profile .
  */
 
-#include <usml/ocean/reflect_loss_rayleigh_grid.h>
+#include <ocean/reflect_loss_rayleigh_grid.h>
 
 #include <memory>
 #include <utility>

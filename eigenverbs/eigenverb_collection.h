@@ -4,10 +4,10 @@
  */
 #pragma once
 
-#include <usml/eigenverbs/eigenverb_listener.h>
-#include <usml/eigenverbs/eigenverb_model.h>
-#include <usml/threads/read_write_lock.h>
-#include <usml/usml_config.h>
+#include <eigenverbs/eigenverb_listener.h>
+#include <eigenverbs/eigenverb_model.h>
+#include <threads/read_write_lock.h>
+#include <usml_config.h>
 
 #include <boost/geometry/geometry.hpp>
 #include <cstddef>

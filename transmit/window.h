@@ -4,11 +4,11 @@
  */
 #pragma once
 
-#include <usml/types/seq_linear.h>
-#include <usml/types/seq_vector.h>
-#include <usml/ublas/math_traits.h>
-#include <usml/ublas/vector_math.h>
-#include <usml/usml_config.h>
+#include <types/seq_linear.h>
+#include <types/seq_vector.h>
+#include <ublas/math_traits.h>
+#include <ublas/vector_math.h>
+#include <usml_config.h>
 
 #include <boost/numeric/ublas/vector.hpp>
 #include <boost/numeric/ublas/vector_expression.hpp>

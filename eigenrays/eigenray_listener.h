@@ -4,8 +4,8 @@
  */
 #pragma once
 
-#include <usml/eigenrays/eigenray_model.h>
-#include <usml/usml_config.h>
+#include <eigenrays/eigenray_model.h>
+#include <usml_config.h>
 
 #include <cstddef>
 

@@ -3,11 +3,11 @@
  * Extracts bathymetry data from ASCII files with an ARC header.
  */
 
-#include <usml/ocean/ascii_arc_bathy.h>
-#include <usml/types/seq_linear.h>
-#include <usml/types/seq_vector.h>
-#include <usml/types/wposition.h>
-#include <usml/ublas/math_traits.h>
+#include <ocean/ascii_arc_bathy.h>
+#include <types/seq_linear.h>
+#include <types/seq_vector.h>
+#include <types/wposition.h>
+#include <ublas/math_traits.h>
 
 #include <cstddef>
 #include <fstream>

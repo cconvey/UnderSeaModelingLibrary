@@ -3,10 +3,10 @@
  * Read a 1-D profile from a text file.
  */
 
-#include <usml/ocean/ascii_profile.h>
-#include <usml/types/seq_data.h>
-#include <usml/types/seq_vector.h>
-#include <usml/types/wposition.h>
+#include <ocean/ascii_profile.h>
+#include <types/seq_data.h>
+#include <types/seq_vector.h>
+#include <types/wposition.h>
 
 #include <cctype>
 #include <cstddef>

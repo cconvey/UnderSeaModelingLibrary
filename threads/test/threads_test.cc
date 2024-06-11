@@ -4,11 +4,11 @@
 
 #include <bits/stdint-intn.h>
 #include <cstddef>
-#include <usml/threads/read_write_lock.h>
-#include <usml/threads/thread_controller.h>
-#include <usml/threads/thread_pool.h>
-#include <usml/threads/thread_task.h>
-#include <usml/ublas/randgen.h>
+#include <threads/read_write_lock.h>
+#include <threads/thread_controller.h>
+#include <threads/thread_pool.h>
+#include <threads/thread_task.h>
+#include <ublas/randgen.h>
 
 #include <boost/test/unit_test.hpp>
 #include <boost/timer/timer.hpp>

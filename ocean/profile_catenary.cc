@@ -3,7 +3,7 @@
  * Creates an analytic model for a deep duct catenary profile.
  */
 
-#include <usml/ocean/profile_catenary.h>
+#include <ocean/profile_catenary.h>
 
 using namespace usml::ocean;
 

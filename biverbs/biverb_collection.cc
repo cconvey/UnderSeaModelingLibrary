@@ -5,11 +5,11 @@
 
 #include <ncvalues.h>
 #include <netcdfcpp.h>
-#include <usml/biverbs/biverb_collection.h>
-#include <usml/types/seq_vector.h>
-#include <usml/types/wposition1.h>
-#include <usml/ublas/math_traits.h>
-#include <usml/ublas/vector_math.h>
+#include <biverbs/biverb_collection.h>
+#include <types/seq_vector.h>
+#include <types/wposition1.h>
+#include <ublas/math_traits.h>
+#include <ublas/vector_math.h>
 
 #include <boost/numeric/ublas/expression_types.hpp>
 #include <boost/numeric/ublas/storage.hpp>

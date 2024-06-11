@@ -2,10 +2,10 @@
  * @example waveq3d/test/proploss_test.cc
  */
 
-#include <usml/eigenrays/eigenrays.h>
-#include <usml/netcdf/netcdf_files.h>
-#include <usml/ocean/ocean.h>
-#include <usml/waveq3d/waveq3d.h>
+#include <eigenrays/eigenrays.h>
+#include <netcdf/netcdf_files.h>
+#include <ocean/ocean.h>
+#include <waveq3d/waveq3d.h>
 
 #include <boost/test/unit_test.hpp>
 #include <fstream>

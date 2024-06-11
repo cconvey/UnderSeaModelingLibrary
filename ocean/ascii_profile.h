@@ -4,8 +4,8 @@
  */
 #pragma once
 
-#include <usml/types/gen_grid.h>
-#include <usml/usml_config.h>
+#include <types/gen_grid.h>
+#include <usml_config.h>
 
 namespace usml {
 namespace ocean {

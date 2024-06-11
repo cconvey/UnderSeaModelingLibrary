@@ -4,8 +4,8 @@
  */
 #pragma once
 
-#include <usml/threads/read_write_lock.h>
-#include <usml/usml_config.h>
+#include <threads/read_write_lock.h>
+#include <usml_config.h>
 
 #include <memory>
 #include <thread>

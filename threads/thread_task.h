@@ -5,7 +5,7 @@
 #pragma once
 
 #include <bits/stdint-intn.h>
-#include <usml/usml_config.h>
+#include <usml_config.h>
 
 #include <atomic>
 #include <chrono>

@@ -5,16 +5,16 @@
 #pragma once
 
 #include <netcdfcpp.h>
-#include <usml/eigenrays/eigenray_notifier.h>
-#include <usml/eigenverbs/eigenverb_notifier.h>
-#include <usml/ocean/ocean_model.h>
-#include <usml/types/seq_vector.h>
-#include <usml/types/wposition.h>
-#include <usml/types/wposition1.h>
-#include <usml/usml_config.h>
-#include <usml/waveq3d/reflection_notifier.h>
-#include <usml/waveq3d/wave_front.h>
-#include <usml/waveq3d/wave_thresholds.h>
+#include <eigenrays/eigenray_notifier.h>
+#include <eigenverbs/eigenverb_notifier.h>
+#include <ocean/ocean_model.h>
+#include <types/seq_vector.h>
+#include <types/wposition.h>
+#include <types/wposition1.h>
+#include <usml_config.h>
+#include <waveq3d/reflection_notifier.h>
+#include <waveq3d/wave_front.h>
+#include <waveq3d/wave_thresholds.h>
 
 #include <boost/numeric/ublas/matrix.hpp>
 #include <boost/numeric/ublas/vector.hpp>

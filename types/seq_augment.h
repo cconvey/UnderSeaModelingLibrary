@@ -4,7 +4,7 @@
  */
 #pragma once
 
-#include <usml/types/seq_data.h>
+#include <types/seq_data.h>
 
 namespace usml {
 namespace types {

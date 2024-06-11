@@ -4,10 +4,10 @@
  */
 #pragma once
 
-#include <usml/biverbs/biverb_model.h>
-#include <usml/eigenverbs/eigenverb_model.h>
-#include <usml/threads/read_write_lock.h>
-#include <usml/usml_config.h>
+#include <biverbs/biverb_model.h>
+#include <eigenverbs/eigenverb_model.h>
+#include <threads/read_write_lock.h>
+#include <usml_config.h>
 
 #include <boost/numeric/ublas/vector.hpp>
 #include <cstddef>

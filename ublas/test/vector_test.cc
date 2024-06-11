@@ -1,8 +1,8 @@
 /**
  * @example ublas/test/vector_test.cc
  */
-#include <usml/ublas/test/vector_test_support.h>
-#include <usml/ublas/vector_math.h>
+#include <ublas/test/vector_test_support.h>
+#include <ublas/vector_math.h>
 
 #include <boost/test/unit_test.hpp>
 

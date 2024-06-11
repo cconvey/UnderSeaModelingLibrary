@@ -4,8 +4,8 @@
  */
 #pragma once
 
-#include <usml/ocean/scattering_model.h>
-#include <usml/ublas/ublas.h>
+#include <ocean/scattering_model.h>
+#include <ublas/ublas.h>
 
 namespace usml {
 namespace ocean {

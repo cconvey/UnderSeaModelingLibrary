@@ -3,8 +3,8 @@
  * Models attenuation loss using Thorp's model.
  */
 
-#include <usml/ocean/attenuation_thorp.h>
-#include <usml/types/wvector.h>
+#include <ocean/attenuation_thorp.h>
+#include <types/wvector.h>
 
 using namespace usml::ocean;
 

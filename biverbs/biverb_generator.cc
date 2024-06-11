@@ -3,13 +3,13 @@
  * Computes Background task to compute bistatic eigenverbs.
  */
 
-#include <usml/biverbs/biverb_generator.h>
-#include <usml/eigenverbs/eigenverb_model.h>
-#include <usml/managed/managed_obj.h>
-#include <usml/ocean/ocean_model.h>
-#include <usml/ocean/ocean_shared.h>
-#include <usml/sensors/sensor_manager.h>
-#include <usml/types/seq_vector.h>
+#include <biverbs/biverb_generator.h>
+#include <eigenverbs/eigenverb_model.h>
+#include <managed/managed_obj.h>
+#include <ocean/ocean_model.h>
+#include <ocean/ocean_shared.h>
+#include <sensors/sensor_manager.h>
+#include <types/seq_vector.h>
 
 #include <boost/numeric/ublas/vector.hpp>
 #include <iostream>

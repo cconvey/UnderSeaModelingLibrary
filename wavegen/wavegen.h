@@ -11,5 +11,5 @@
  */
 #pragma once
 
-#include <usml/wavegen/wavefront_generator.h>
-#include <usml/wavegen/wavefront_listener.h>
+#include <wavegen/wavefront_generator.h>
+#include <wavegen/wavefront_listener.h>

@@ -4,17 +4,17 @@
  */
 #pragma once
 
-#include <usml/biverbs/biverb_collection.h>
-#include <usml/eigenrays/eigenray_collection.h>
-#include <usml/eigenverbs/eigenverb_collection.h>
-#include <usml/managed/managed_obj.h>
-#include <usml/managed/update_listener.h>
-#include <usml/managed/update_notifier.h>
-#include <usml/rvbts/rvbts_collection.h>
-#include <usml/sensors/sensor_model.h>
-#include <usml/threads/read_write_lock.h>
-#include <usml/usml_config.h>
-#include <usml/wavegen/wavefront_listener.h>
+#include <biverbs/biverb_collection.h>
+#include <eigenrays/eigenray_collection.h>
+#include <eigenverbs/eigenverb_collection.h>
+#include <managed/managed_obj.h>
+#include <managed/update_listener.h>
+#include <managed/update_notifier.h>
+#include <rvbts/rvbts_collection.h>
+#include <sensors/sensor_model.h>
+#include <threads/read_write_lock.h>
+#include <usml_config.h>
+#include <wavegen/wavefront_listener.h>
 
 #include <list>
 #include <memory>

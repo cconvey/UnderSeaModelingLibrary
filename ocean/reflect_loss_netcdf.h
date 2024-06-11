@@ -5,9 +5,9 @@
 #pragma once
 
 #include <netcdfcpp.h>
-#include <usml/ocean/reflect_loss_model.h>
-#include <usml/ocean/reflect_loss_rayleigh.h>
-#include <usml/types/gen_grid.h>
+#include <ocean/reflect_loss_model.h>
+#include <ocean/reflect_loss_rayleigh.h>
+#include <types/gen_grid.h>
 
 #include <vector>
 

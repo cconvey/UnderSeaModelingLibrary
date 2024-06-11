@@ -1,15 +1,15 @@
 /**
  * @example studies/reverberation/reverb_analytic_test.cc
  */
-#include <usml/beampatterns/bp_model.h>
-#include <usml/beampatterns/bp_omni.h>
-#include <usml/eigenverbs/eigenverbs.h>
-#include <usml/ocean/ocean.h>
-#include <usml/platforms/platform_manager.h>
-#include <usml/sensors/sensors.h>
-#include <usml/wavegen/wavegen.h>
-#include <usml/transmit/transmit_cw.h>
-#include <usml/transmit/transmit_model.h>
+#include <beampatterns/bp_model.h>
+#include <beampatterns/bp_omni.h>
+#include <eigenverbs/eigenverbs.h>
+#include <ocean/ocean.h>
+#include <platforms/platform_manager.h>
+#include <sensors/sensors.h>
+#include <wavegen/wavegen.h>
+#include <transmit/transmit_cw.h>
+#include <transmit/transmit_model.h>
 
 #include <list>
 

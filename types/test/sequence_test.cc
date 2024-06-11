@@ -1,7 +1,7 @@
 /**
  * @example types/test/sequence_test.cc
  */
-#include <usml/types/types.h>
+#include <types/types.h>
 
 #include <boost/test/unit_test.hpp>
 #include <cstdlib>

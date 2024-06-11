@@ -2,7 +2,7 @@
  * @file seq_rayfan.cc
  * Defines a sequence of values that are tangentially spaced.
  */
-#include <usml/types/seq_rayfan.h>
+#include <types/seq_rayfan.h>
 
 using namespace usml::types;
 

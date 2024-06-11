@@ -4,8 +4,8 @@
  */
 #pragma once
 
-#include <usml/types/types.h>
-#include <usml/ublas/ublas.h>
+#include <types/types.h>
+#include <ublas/ublas.h>
 
 namespace usml {
 namespace ocean {

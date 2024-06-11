@@ -3,7 +3,7 @@
  * Sound velocity profile and attenuation
  */
 
-#include <usml/ocean/profile_model.h>
+#include <ocean/profile_model.h>
 
 using namespace usml::ocean;
 

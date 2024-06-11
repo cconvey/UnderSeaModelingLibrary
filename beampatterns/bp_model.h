@@ -4,10 +4,10 @@
  */
 #pragma once
 
-#include <usml/types/bvector.h>
-#include <usml/types/orientation.h>
-#include <usml/types/seq_vector.h>
-#include <usml/usml_config.h>
+#include <types/bvector.h>
+#include <types/orientation.h>
+#include <types/seq_vector.h>
+#include <usml_config.h>
 
 #include <boost/numeric/ublas/vector.hpp>
 #include <memory>

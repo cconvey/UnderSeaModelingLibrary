@@ -2,7 +2,7 @@
  * @example types/test/position_test.cc
  */
 #include <boost/test/unit_test.hpp>
-#include <usml/types/types.h>
+#include <types/types.h>
 #include <iostream>
 
 BOOST_AUTO_TEST_SUITE(position_test)

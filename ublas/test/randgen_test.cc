@@ -2,7 +2,7 @@
  * @example ublas/test/randgen_test.cc
  */
 
-#include <usml/ublas/ublas.h>
+#include <ublas/ublas.h>
 
 #include <boost/numeric/ublas/io.hpp>
 #include <boost/numeric/ublas/matrix.hpp>

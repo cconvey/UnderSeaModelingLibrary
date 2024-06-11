@@ -10,7 +10,7 @@
 #ifndef Ncvalues_def
 #define Ncvalues_def
 
-#include <usml/usml_config.h>
+#include <usml_config.h>
 #include <iostream>
 #include <sstream>
 #include <limits.h>

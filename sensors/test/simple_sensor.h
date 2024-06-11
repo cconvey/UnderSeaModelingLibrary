@@ -5,12 +5,12 @@
 #pragma once
 
 #include <bits/types/time_t.h>
-#include <usml/beampatterns/bp_model.h>
-#include <usml/beampatterns/bp_omni.h>
-#include <usml/sensors/sensor_model.h>
-#include <usml/types/orientation.h>
-#include <usml/types/wposition1.h>
-#include <usml/usml_config.h>
+#include <beampatterns/bp_model.h>
+#include <beampatterns/bp_omni.h>
+#include <sensors/sensor_model.h>
+#include <types/orientation.h>
+#include <types/wposition1.h>
+#include <usml_config.h>
 
 #include <string>
 

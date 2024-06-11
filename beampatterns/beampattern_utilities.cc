@@ -2,7 +2,7 @@
  * @file beampattern_utilities.cc
  * A collection of utilities for helping to build and configure beampatterns.
  */
-#include <usml/beampatterns/beampattern_utilities.h>
+#include <beampatterns/beampattern_utilities.h>
 
 namespace usml::beampatterns {
 

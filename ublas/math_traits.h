@@ -4,7 +4,7 @@
  */
 #pragma once
 
-#include <usml/usml_config.h>
+#include <usml_config.h>
 
 #include <boost/numeric/ublas/io.hpp>
 #include <boost/numeric/ublas/matrix.hpp>

@@ -3,8 +3,8 @@
  * Models attenuation loss as a constant factor.
  */
 
-#include <usml/ocean/attenuation_constant.h>
-#include <usml/types/wvector.h>
+#include <ocean/attenuation_constant.h>
+#include <types/wvector.h>
 
 using namespace usml::ocean;
 

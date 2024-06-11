@@ -3,7 +3,7 @@
  * Creates an analytic model for the N^2 Linear profile.
  */
 
-#include <usml/ocean/profile_n2.h>
+#include <ocean/profile_n2.h>
 
 using namespace usml::ocean;
 

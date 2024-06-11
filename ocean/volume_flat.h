@@ -4,7 +4,7 @@
  */
 #pragma once
 
-#include <usml/ocean/volume_model.h>
+#include <ocean/volume_model.h>
 
 #include <boost/numeric/ublas/vector_expression.hpp>
 

@@ -1,8 +1,8 @@
 /**
  * @example eigenrays/test/eigenrays_test.cc
  */
-#include <usml/eigenrays/eigenrays.h>
-#include <usml/types/types.h>
+#include <eigenrays/eigenrays.h>
+#include <types/types.h>
 
 #include <boost/test/unit_test.hpp>
 #include <fstream>

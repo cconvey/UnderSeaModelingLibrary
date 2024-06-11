@@ -12,7 +12,7 @@
  */
 #pragma once
 
-#include <usml/netcdf/netcdf_bathy.h>
-#include <usml/netcdf/netcdf_coards.h>
-#include <usml/netcdf/netcdf_profile.h>
-#include <usml/netcdf/netcdf_woa.h>
+#include <netcdf/netcdf_bathy.h>
+#include <netcdf/netcdf_coards.h>
+#include <netcdf/netcdf_profile.h>
+#include <netcdf/netcdf_woa.h>

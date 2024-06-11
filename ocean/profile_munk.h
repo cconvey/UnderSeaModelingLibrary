@@ -4,9 +4,9 @@
  */
 #pragma once
 
-#include <usml/ocean/profile_model.h>
-#include <usml/types/wposition.h>
-#include <usml/usml_config.h>
+#include <ocean/profile_model.h>
+#include <types/wposition.h>
+#include <usml_config.h>
 
 #include <boost/numeric/ublas/matrix.hpp>
 

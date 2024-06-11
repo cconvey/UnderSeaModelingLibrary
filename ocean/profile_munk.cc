@@ -3,8 +3,8 @@
  * Creates an analytic model for the Munk profile.
  */
 
-#include <usml/ocean/profile_munk.h>
-#include <usml/ublas/matrix_math.h>
+#include <ocean/profile_munk.h>
+#include <ublas/matrix_math.h>
 
 #include <boost/numeric/ublas/expression_types.hpp>
 #include <boost/numeric/ublas/matrix.hpp>

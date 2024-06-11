@@ -3,7 +3,7 @@
  * Thresholds that causes new data for acoustics to be generated.
  */
 
-#include <usml/platforms/motion_thresholds.h>
+#include <platforms/motion_thresholds.h>
 
 using namespace usml::platforms;
 

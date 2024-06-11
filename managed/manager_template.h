@@ -5,9 +5,9 @@
 #pragma once
 
 #include <bits/exception.h>
-#include <usml/managed/manager_listener.h>
-#include <usml/threads/read_write_lock.h>
-#include <usml/usml_config.h>
+#include <managed/manager_listener.h>
+#include <threads/read_write_lock.h>
+#include <usml_config.h>
 
 #include <list>
 #include <map>

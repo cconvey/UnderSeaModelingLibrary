@@ -3,7 +3,7 @@
  * A frequency independent cardioid beam pattern, .
  */
 
-#include <usml/beampatterns/bp_cardioid.h>
+#include <beampatterns/bp_cardioid.h>
 
 #include <boost/numeric/ublas/detail/definitions.hpp>
 

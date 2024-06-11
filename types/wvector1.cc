@@ -2,9 +2,9 @@
  * @file wvector1.cc
  * Individual world vector in spherical earth coordinates.
  */
-#include <usml/types/wposition.h>
-#include <usml/types/wposition1.h>
-#include <usml/types/wvector1.h>
+#include <types/wposition.h>
+#include <types/wposition1.h>
+#include <types/wvector1.h>
 
 using namespace usml::types;
 

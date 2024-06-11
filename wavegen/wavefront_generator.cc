@@ -3,15 +3,15 @@
  * Generates eigenrays and eigenverbs for the reverberation model.
  */
 
-#include <usml/eigenrays/eigenray_collection.h>
-#include <usml/eigenverbs/eigenverb_collection.h>
-#include <usml/managed/managed_obj.h>
-#include <usml/ocean/ocean_shared.h>
-#include <usml/platforms/platform_model.h>
-#include <usml/sensors/sensor_model.h>
-#include <usml/wavegen/wavefront_generator.h>
-#include <usml/waveq3d/wave_queue.h>
-#include <usml/waveq3d/wave_thresholds.h>
+#include <eigenrays/eigenray_collection.h>
+#include <eigenverbs/eigenverb_collection.h>
+#include <managed/managed_obj.h>
+#include <ocean/ocean_shared.h>
+#include <platforms/platform_model.h>
+#include <sensors/sensor_model.h>
+#include <wavegen/wavefront_generator.h>
+#include <waveq3d/wave_queue.h>
+#include <waveq3d/wave_thresholds.h>
 
 #include <iostream>
 #include <memory>

@@ -4,7 +4,7 @@
  */
 #pragma once
 
-#include <usml/ocean/scattering_model.h>
+#include <ocean/scattering_model.h>
 
 namespace usml {
 namespace ocean {

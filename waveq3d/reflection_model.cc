@@ -3,17 +3,17 @@
  * Reflection model components of wave_queue object type.
  */
 
-#include <usml/eigenverbs/eigenverb_model.h>
-#include <usml/eigenverbs/eigenverb_notifier.h>
-#include <usml/ocean/boundary_model.h>
-#include <usml/ocean/ocean_model.h>
-#include <usml/types/seq_vector.h>
-#include <usml/types/wposition.h>
-#include <usml/types/wvector.h>
-#include <usml/types/wvector1.h>
-#include <usml/waveq3d/ode_integ.h>
-#include <usml/waveq3d/reflection_model.h>
-#include <usml/waveq3d/reflection_notifier.h>
+#include <eigenverbs/eigenverb_model.h>
+#include <eigenverbs/eigenverb_notifier.h>
+#include <ocean/boundary_model.h>
+#include <ocean/ocean_model.h>
+#include <types/seq_vector.h>
+#include <types/wposition.h>
+#include <types/wvector.h>
+#include <types/wvector1.h>
+#include <waveq3d/ode_integ.h>
+#include <waveq3d/reflection_model.h>
+#include <waveq3d/reflection_notifier.h>
 
 #include <algorithm>
 #include <boost/numeric/ublas/matrix.hpp>

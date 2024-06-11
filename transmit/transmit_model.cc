@@ -3,8 +3,8 @@
  * Parameters for a single waveform in a transmission schedule.
  */
 
-#include <usml/transmit/transmit_model.h>
-#include <usml/ublas/vector_math.h>
+#include <transmit/transmit_model.h>
+#include <ublas/vector_math.h>
 
 #include <boost/numeric/ublas/expression_types.hpp>
 

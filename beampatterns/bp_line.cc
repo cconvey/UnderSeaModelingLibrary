@@ -2,7 +2,7 @@
  * @file bp_line.cc
  * Vertical and horizontal line arrays in closed form.
  */
-#include <usml/beampatterns/bp_line.h>
+#include <beampatterns/bp_line.h>
 
 using namespace usml::beampatterns;
 

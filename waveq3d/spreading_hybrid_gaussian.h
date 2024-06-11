@@ -4,10 +4,10 @@
  */
 #pragma once
 
-#include <usml/types/wposition1.h>
-#include <usml/ublas/vector_math.h>
-#include <usml/usml_config.h>
-#include <usml/waveq3d/spreading_model.h>
+#include <types/wposition1.h>
+#include <ublas/vector_math.h>
+#include <usml_config.h>
+#include <waveq3d/spreading_model.h>
 
 #include <boost/numeric/ublas/expression_types.hpp>
 #include <boost/numeric/ublas/matrix.hpp>

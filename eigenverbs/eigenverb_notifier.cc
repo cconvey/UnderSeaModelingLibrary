@@ -3,7 +3,7 @@
  * Manage eigenverb listeners and distribute eigenverb updates.
  */
 
-#include <usml/eigenverbs/eigenverb_notifier.h>
+#include <eigenverbs/eigenverb_notifier.h>
 
 using namespace usml::eigenverbs;
 

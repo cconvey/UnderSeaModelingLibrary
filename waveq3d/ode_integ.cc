@@ -3,10 +3,10 @@
  * Integration utilities for ordinary differental equations.
  */
 
-#include <usml/types/wposition.h>
-#include <usml/types/wvector.h>
-#include <usml/ublas/matrix_math.h>
-#include <usml/waveq3d/ode_integ.h>
+#include <types/wposition.h>
+#include <types/wvector.h>
+#include <ublas/matrix_math.h>
+#include <waveq3d/ode_integ.h>
 
 #include <boost/numeric/ublas/expression_types.hpp>
 #include <boost/numeric/ublas/matrix.hpp>

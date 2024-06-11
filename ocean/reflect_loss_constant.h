@@ -4,7 +4,7 @@
  */
 #pragma once
 
-#include <usml/ocean/reflect_loss_model.h>
+#include <ocean/reflect_loss_model.h>
 
 namespace usml {
 namespace ocean {

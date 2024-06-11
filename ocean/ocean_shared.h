@@ -4,8 +4,8 @@
  */
 #pragma once
 
-#include <usml/ocean/ocean_model.h>
-#include <usml/threads/threads.h>
+#include <ocean/ocean_model.h>
+#include <threads/threads.h>
 
 namespace usml {
 namespace ocean {

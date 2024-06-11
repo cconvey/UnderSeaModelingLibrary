@@ -4,9 +4,9 @@
  */
 #pragma once
 
-#include <usml/types/wposition1.h>
-#include <usml/usml_config.h>
-#include <usml/waveq3d/spreading_model.h>
+#include <types/wposition1.h>
+#include <usml_config.h>
+#include <waveq3d/spreading_model.h>
 
 #include <boost/numeric/ublas/vector.hpp>
 #include <cstddef>

@@ -5,8 +5,8 @@
  */
 #pragma once
 
-#include <usml/eigenverbs/eigenverb_model.h>
-#include <usml/usml_config.h>
+#include <eigenverbs/eigenverb_model.h>
+#include <usml_config.h>
 
 #include <cstddef>
 

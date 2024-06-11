@@ -2,8 +2,8 @@
  * @file seq_data.cc
  * Sequence defined by an unevenly spaced vector of points.
  */
-#include <usml/types/seq_data.h>
-#include <usml/types/seq_vector.h>
+#include <types/seq_data.h>
+#include <types/seq_vector.h>
 
 #include <stdexcept>
 

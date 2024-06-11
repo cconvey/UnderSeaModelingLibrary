@@ -4,12 +4,12 @@
  */
 #pragma once
 
-#include <usml/biverbs/biverb_collection.h>
-#include <usml/eigenverbs/eigenverb_collection.h>
-#include <usml/managed/update_notifier.h>
-#include <usml/sensors/sensor_pair.h>
-#include <usml/threads/thread_task.h>
-#include <usml/usml_config.h>
+#include <biverbs/biverb_collection.h>
+#include <eigenverbs/eigenverb_collection.h>
+#include <managed/update_notifier.h>
+#include <sensors/sensor_pair.h>
+#include <threads/thread_task.h>
+#include <usml_config.h>
 
 namespace usml {
 namespace biverbs {

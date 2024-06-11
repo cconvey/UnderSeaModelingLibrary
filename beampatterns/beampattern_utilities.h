@@ -4,7 +4,7 @@
  */
 #pragma once
 
-#include <usml/types/types.h>
+#include <types/types.h>
 
 namespace usml {
 namespace beampatterns {

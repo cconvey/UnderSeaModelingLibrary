@@ -2,7 +2,7 @@
  * @example platforms/test/platforms_test.cc
  */
 
-#include <usml/platforms/platforms.h>
+#include <platforms/platforms.h>
 
 #include <boost/test/unit_test.hpp>
 

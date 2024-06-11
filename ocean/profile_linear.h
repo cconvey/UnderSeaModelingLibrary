@@ -4,9 +4,9 @@
  */
 #pragma once
 
-#include <usml/ocean/profile_model.h>
-#include <usml/types/wposition.h>
-#include <usml/types/wvector.h>
+#include <ocean/profile_model.h>
+#include <types/wposition.h>
+#include <types/wvector.h>
 
 namespace usml {
 namespace ocean {

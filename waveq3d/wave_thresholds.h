@@ -4,8 +4,8 @@
  */
 #pragma once
 
-#include <usml/usml_config.h>
-#include <usml/waveq3d/wave_front.h>
+#include <usml_config.h>
+#include <waveq3d/wave_front.h>
 
 #include <boost/numeric/ublas/matrix.hpp>
 #include <cmath>

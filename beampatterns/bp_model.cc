@@ -3,7 +3,7 @@
  * Base class used for building beam pattern models.
  */
 
-#include <usml/beampatterns/bp_model.h>
+#include <beampatterns/bp_model.h>
 
 #include <cmath>
 #include <utility>

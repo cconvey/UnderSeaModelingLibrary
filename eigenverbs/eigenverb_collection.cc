@@ -5,12 +5,12 @@
 
 #include <ncvalues.h>
 #include <netcdfcpp.h>
-#include <usml/eigenverbs/eigenverb_collection.h>
-#include <usml/types/seq_data.h>
-#include <usml/types/seq_vector.h>
-#include <usml/types/wposition1.h>
-#include <usml/ublas/math_traits.h>
-#include <usml/ublas/vector_math.h>
+#include <eigenverbs/eigenverb_collection.h>
+#include <types/seq_data.h>
+#include <types/seq_vector.h>
+#include <types/wposition1.h>
+#include <ublas/math_traits.h>
+#include <ublas/vector_math.h>
 
 #include <boost/geometry/geometries/polygon.hpp>
 #include <boost/geometry/index/detail/predicates.hpp>

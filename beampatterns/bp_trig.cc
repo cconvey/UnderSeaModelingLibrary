@@ -3,7 +3,7 @@
  * Models frequency independent sonobuoy sine and cosine beampatterns.
  */
 
-#include <usml/beampatterns/bp_trig.h>
+#include <beampatterns/bp_trig.h>
 
 #include <boost/numeric/ublas/detail/definitions.hpp>
 

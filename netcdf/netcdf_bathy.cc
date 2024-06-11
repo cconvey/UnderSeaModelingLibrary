@@ -3,10 +3,10 @@
  * Extracts bathymetry data from world-wide bathymetry databases.
  */
 
-#include <usml/netcdf/netcdf_bathy.h>
-#include <usml/types/seq_linear.h>
-#include <usml/types/seq_vector.h>
-#include <usml/ublas/math_traits.h>
+#include <netcdf/netcdf_bathy.h>
+#include <types/seq_linear.h>
+#include <types/seq_vector.h>
+#include <ublas/math_traits.h>
 
 #include <algorithm>
 #include <cmath>

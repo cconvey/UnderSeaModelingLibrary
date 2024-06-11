@@ -3,7 +3,7 @@
  * A thread pool for executing tasks in a separate thread.
  */
 
-#include <usml/threads/thread_pool.h>
+#include <threads/thread_pool.h>
 
 #include <atomic>
 #include <cassert>

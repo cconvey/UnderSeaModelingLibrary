@@ -3,7 +3,7 @@
  * Singleton container for all platforms in the simulation.
  */
 
-#include <usml/platforms/platform_manager.h>
+#include <platforms/platform_manager.h>
 
 #include <memory>
 

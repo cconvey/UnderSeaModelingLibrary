@@ -4,11 +4,11 @@
  */
 #pragma once
 
-#include <usml/types/data_grid.h>
-#include <usml/types/gen_grid_utils.h>
-#include <usml/types/seq_vector.h>
-#include <usml/ublas/randgen.h>
-#include <usml/usml_config.h>
+#include <types/data_grid.h>
+#include <types/gen_grid_utils.h>
+#include <types/seq_vector.h>
+#include <ublas/randgen.h>
+#include <usml_config.h>
 
 #include <array>
 #include <cstddef>

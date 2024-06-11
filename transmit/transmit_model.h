@@ -4,8 +4,8 @@
  */
 #pragma once
 
-#include <usml/transmit/window.h>
-#include <usml/usml_config.h>
+#include <transmit/window.h>
+#include <usml_config.h>
 
 #include <boost/numeric/ublas/vector.hpp>
 #include <complex>

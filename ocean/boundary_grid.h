@@ -4,15 +4,15 @@
  */
 #pragma once
 
-#include <usml/ocean/boundary_model.h>
-#include <usml/ocean/reflect_loss_model.h>
-#include <usml/ocean/reflect_loss_rayleigh.h>
-#include <usml/types/data_grid.h>
-#include <usml/types/wposition.h>
-#include <usml/types/wposition1.h>
-#include <usml/types/wvector.h>
-#include <usml/types/wvector1.h>
-#include <usml/ublas/matrix_math.h>
+#include <ocean/boundary_model.h>
+#include <ocean/reflect_loss_model.h>
+#include <ocean/reflect_loss_rayleigh.h>
+#include <types/data_grid.h>
+#include <types/wposition.h>
+#include <types/wposition1.h>
+#include <types/wvector.h>
+#include <types/wvector1.h>
+#include <ublas/matrix_math.h>
 
 #include <boost/numeric/ublas/matrix.hpp>
 

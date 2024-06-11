@@ -3,7 +3,7 @@
  * World location in geodetic earth coordinates
  * (latitude, longitude, and altitude).
  */
-#include <usml/types/wposition1.h>
+#include <types/wposition1.h>
 
 using namespace usml::types;
 

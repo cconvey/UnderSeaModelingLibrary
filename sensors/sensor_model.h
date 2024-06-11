@@ -5,19 +5,19 @@
 #pragma once
 
 #include <bits/types/time_t.h>
-#include <usml/beampatterns/bp_model.h>
-#include <usml/managed/managed_obj.h>
-#include <usml/platforms/platform_model.h>
-#include <usml/threads/read_write_lock.h>
-#include <usml/transmit/transmit_model.h>
-#include <usml/types/bvector.h>
-#include <usml/types/orientation.h>
-#include <usml/types/seq_linear.h>
-#include <usml/types/seq_rayfan.h>
-#include <usml/types/seq_vector.h>
-#include <usml/types/wposition1.h>
-#include <usml/usml_config.h>
-#include <usml/wavegen/wavefront_notifier.h>
+#include <beampatterns/bp_model.h>
+#include <managed/managed_obj.h>
+#include <platforms/platform_model.h>
+#include <threads/read_write_lock.h>
+#include <transmit/transmit_model.h>
+#include <types/bvector.h>
+#include <types/orientation.h>
+#include <types/seq_linear.h>
+#include <types/seq_rayfan.h>
+#include <types/seq_vector.h>
+#include <types/wposition1.h>
+#include <usml_config.h>
+#include <wavegen/wavefront_notifier.h>
 
 #include <cstddef>
 #include <list>

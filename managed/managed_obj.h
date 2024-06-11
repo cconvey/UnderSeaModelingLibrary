@@ -4,7 +4,7 @@
  */
 #pragma once
 
-#include <usml/usml_config.h>
+#include <usml_config.h>
 
 #include <memory>
 #include <string>

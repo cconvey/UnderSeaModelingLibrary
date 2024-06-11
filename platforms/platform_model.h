@@ -5,13 +5,13 @@
 #pragma once
 
 #include <bits/types/time_t.h>
-#include <usml/managed/managed_obj.h>
-#include <usml/managed/manager_template.h>
-#include <usml/managed/update_notifier.h>
-#include <usml/threads/read_write_lock.h>
-#include <usml/types/bvector.h>
-#include <usml/types/orientation.h>
-#include <usml/types/wposition1.h>
+#include <managed/managed_obj.h>
+#include <managed/manager_template.h>
+#include <managed/update_notifier.h>
+#include <threads/read_write_lock.h>
+#include <types/bvector.h>
+#include <types/orientation.h>
+#include <types/wposition1.h>
 
 #include <list>
 #include <string>

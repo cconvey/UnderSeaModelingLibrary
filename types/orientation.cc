@@ -2,7 +2,7 @@
  * @file orientation.cc
  * Physical orientation of an object in terms of the aircraft principal axes.
  */
-#include <usml/types/orientation.h>
+#include <types/orientation.h>
 
 #include <boost/numeric/ublas/io.hpp>
 #include <boost/numeric/ublas/assignment.hpp>

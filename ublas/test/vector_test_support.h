@@ -2,7 +2,7 @@
  * @file vector_test_support.h
  * Helper functions for the vector tests.
  */
-#include <usml/ublas/math_traits.h>
+#include <ublas/math_traits.h>
 
 #include <boost/test/unit_test.hpp>
 

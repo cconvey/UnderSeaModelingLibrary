@@ -4,7 +4,7 @@
  */
 #pragma once
 
-#include <usml/ublas/ublas.h>
+#include <ublas/ublas.h>
 
 #include <boost/numeric/ublas/vector.hpp>
 

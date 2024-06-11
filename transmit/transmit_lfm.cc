@@ -3,11 +3,11 @@
  * Linear frequency modulated (LFM) transmission.
  */
 
-#include <usml/transmit/transmit_lfm.h>
-#include <usml/types/seq_linear.h>
-#include <usml/types/seq_vector.h>
-#include <usml/ublas/math_traits.h>
-#include <usml/ublas/vector_math.h>
+#include <transmit/transmit_lfm.h>
+#include <types/seq_linear.h>
+#include <types/seq_vector.h>
+#include <ublas/math_traits.h>
+#include <ublas/vector_math.h>
 
 #include <boost/numeric/ublas/vector.hpp>
 #include <boost/numeric/ublas/vector_expression.hpp>

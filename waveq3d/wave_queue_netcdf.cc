@@ -2,7 +2,7 @@
  * @file wave_queue_netcdf.cc
  * Recording to netCDF wavefront log
  */
-#include <usml/waveq3d/wave_queue.h>
+#include <waveq3d/wave_queue.h>
 
 using namespace usml::waveq3d;
 

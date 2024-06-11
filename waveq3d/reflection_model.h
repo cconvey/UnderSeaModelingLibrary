@@ -4,10 +4,10 @@
  */
 #pragma once
 
-#include <usml/types/wposition1.h>
-#include <usml/usml_config.h>
-#include <usml/waveq3d/wave_queue.h>
-#include <usml/waveq3d/wave_front.h>
+#include <types/wposition1.h>
+#include <usml_config.h>
+#include <waveq3d/wave_queue.h>
+#include <waveq3d/wave_front.h>
 
 #include <cstddef>
 

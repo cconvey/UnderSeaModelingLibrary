@@ -2,12 +2,12 @@
  * @example ocean/test/ambient_test.cc
  */
 
-#include <usml/ocean/ambient_constant.h>
-#include <usml/ocean/ambient_wenz.h>
-#include <usml/types/seq_log.h>
-#include <usml/types/seq_vector.h>
-#include <usml/types/wposition1.h>
-#include <usml/usml_config.h>
+#include <ocean/ambient_constant.h>
+#include <ocean/ambient_wenz.h>
+#include <types/seq_log.h>
+#include <types/seq_vector.h>
+#include <types/wposition1.h>
+#include <usml_config.h>
 
 #include <boost/numeric/ublas/vector.hpp>
 #include <boost/test/unit_test.hpp>

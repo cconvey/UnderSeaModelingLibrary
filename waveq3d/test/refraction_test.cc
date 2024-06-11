@@ -1,9 +1,9 @@
 /**
  * @example waveq3d/test/refraction_test.cc
  */
-#include <usml/ocean/ocean.h>
-#include <usml/types/types.h>
-#include <usml/waveq3d/waveq3d.h>
+#include <ocean/ocean.h>
+#include <types/types.h>
+#include <waveq3d/waveq3d.h>
 
 #include <boost/test/unit_test.hpp>
 #include <fstream>

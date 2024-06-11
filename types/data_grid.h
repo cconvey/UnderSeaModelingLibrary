@@ -6,9 +6,9 @@
 
 #include <ncvalues.h>
 #include <netcdfcpp.h>
-#include <usml/types/seq_vector.h>
-#include <usml/types/wposition.h>
-#include <usml/usml_config.h>
+#include <types/seq_vector.h>
+#include <types/wposition.h>
+#include <usml_config.h>
 
 #include <boost/numeric/ublas/matrix.hpp>
 #include <boost/numeric/ublas/vector.hpp>

@@ -5,9 +5,9 @@
 #pragma once
 
 #include <netcdfcpp.h>
-#include <usml/types/gen_grid.h>
-#include <usml/types/wposition.h>
-#include <usml/usml_config.h>
+#include <types/gen_grid.h>
+#include <types/wposition.h>
+#include <usml_config.h>
 
 namespace usml {
 namespace netcdf {

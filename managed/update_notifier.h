@@ -4,8 +4,8 @@
  */
 #pragma once
 
-#include <usml/managed/update_listener.h>
-#include <usml/usml_config.h>
+#include <managed/update_listener.h>
+#include <usml_config.h>
 
 #include <set>
 

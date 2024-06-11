@@ -4,10 +4,10 @@
  */
 #pragma once
 
-#include <usml/managed/managed_obj.h>
-#include <usml/platforms/platform_model.h>
-#include <usml/threads/read_write_lock.h>
-#include <usml/usml_config.h>
+#include <managed/managed_obj.h>
+#include <platforms/platform_model.h>
+#include <threads/read_write_lock.h>
+#include <usml_config.h>
 
 #include <memory>
 

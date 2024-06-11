@@ -3,12 +3,12 @@
  * Spreading loss based on a hybrid Gaussian beam theory.
  */
 
-#include <usml/ocean/ocean.h>
-#include <usml/types/seq_vector.h>
-#include <usml/types/wposition.h>
-#include <usml/waveq3d/spreading_hybrid_gaussian.h>
-#include <usml/waveq3d/wave_front.h>
-#include <usml/waveq3d/wave_queue.h>
+#include <ocean/ocean.h>
+#include <types/seq_vector.h>
+#include <types/wposition.h>
+#include <waveq3d/spreading_hybrid_gaussian.h>
+#include <waveq3d/wave_front.h>
+#include <waveq3d/wave_queue.h>
 
 #include <cmath>
 #include <cstdlib>

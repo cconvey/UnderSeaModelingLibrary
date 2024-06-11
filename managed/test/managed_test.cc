@@ -2,12 +2,12 @@
  * @example managed/test/managed_test.cc
  */
 
-#include <usml/managed/managed.h>
-#include <usml/managed/managed_obj.h>
-#include <usml/managed/manager_listener.h>
-#include <usml/managed/manager_template.h>
-#include <usml/managed/update_listener.h>
-#include <usml/managed/update_notifier.h>
+#include <managed/managed.h>
+#include <managed/managed_obj.h>
+#include <managed/manager_listener.h>
+#include <managed/manager_template.h>
+#include <managed/update_listener.h>
+#include <managed/update_notifier.h>
 
 #include <boost/test/unit_test.hpp>
 #include <iostream>

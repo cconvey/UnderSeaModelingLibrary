@@ -4,8 +4,8 @@
  */
 #pragma once
 
-#include <usml/ublas/ublas.h>
-#include <usml/types/orientation.h>
+#include <ublas/ublas.h>
+#include <types/orientation.h>
 
 namespace usml {
 namespace types {

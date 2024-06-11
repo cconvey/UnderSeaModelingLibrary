@@ -5,12 +5,12 @@
  */
 #pragma once
 
-#include <usml/ocean/boundary_model.h>
-#include <usml/ocean/profile_model.h>
-#include <usml/ocean/volume_model.h>
-#include <usml/types/seq_vector.h>
-#include <usml/types/wposition1.h>
-#include <usml/usml_config.h>
+#include <ocean/boundary_model.h>
+#include <ocean/profile_model.h>
+#include <ocean/volume_model.h>
+#include <types/seq_vector.h>
+#include <types/wposition1.h>
+#include <usml_config.h>
 
 #include <boost/numeric/ublas/vector.hpp>
 #include <cmath>

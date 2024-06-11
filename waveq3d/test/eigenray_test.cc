@@ -1,9 +1,9 @@
 /**
  * @example waveq3d/test/eigenray_test.cc
  */
-#include <usml/eigenrays/eigenrays.h>
-#include <usml/ocean/ocean.h>
-#include <usml/waveq3d/waveq3d.h>
+#include <eigenrays/eigenrays.h>
+#include <ocean/ocean.h>
+#include <waveq3d/waveq3d.h>
 
 #include <boost/test/unit_test.hpp>
 #include <cstdio>

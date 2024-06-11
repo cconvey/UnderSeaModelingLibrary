@@ -4,9 +4,9 @@
  */
 #pragma once
 
-#include <usml/types/wposition1.h>
-#include <usml/usml_config.h>
-#include <usml/waveq3d/reflection_listener.h>
+#include <types/wposition1.h>
+#include <usml_config.h>
+#include <waveq3d/reflection_listener.h>
 
 #include <cstddef>
 #include <set>

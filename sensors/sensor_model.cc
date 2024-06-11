@@ -3,18 +3,18 @@
  * Instance of an individual sensor in the simulation.
  */
 
-#include <usml/biverbs/biverb_collection.h>
-#include <usml/managed/manager_template.h>
-#include <usml/platforms/motion_thresholds.h>
-#include <usml/platforms/platform_manager.h>
-#include <usml/sensors/sensor_manager.h>
-#include <usml/sensors/sensor_model.h>
-#include <usml/sensors/sensor_pair.h>
-#include <usml/threads/thread_controller.h>
-#include <usml/threads/thread_pool.h>
-#include <usml/threads/thread_task.h>
-#include <usml/types/wposition.h>
-#include <usml/wavegen/wavefront_generator.h>
+#include <biverbs/biverb_collection.h>
+#include <managed/manager_template.h>
+#include <platforms/motion_thresholds.h>
+#include <platforms/platform_manager.h>
+#include <sensors/sensor_manager.h>
+#include <sensors/sensor_model.h>
+#include <sensors/sensor_pair.h>
+#include <threads/thread_controller.h>
+#include <threads/thread_pool.h>
+#include <threads/thread_task.h>
+#include <types/wposition.h>
+#include <wavegen/wavefront_generator.h>
 
 #include <boost/numeric/ublas/matrix.hpp>
 #include <cfloat>

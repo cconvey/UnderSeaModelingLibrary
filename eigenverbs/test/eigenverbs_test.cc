@@ -1,8 +1,8 @@
 /**
  * @example eigenverbs/test/eigenverbs_test.cc
  */
-#include <usml/eigenverbs/eigenverbs.h>
-#include <usml/types/types.h>
+#include <eigenverbs/eigenverbs.h>
+#include <types/types.h>
 
 #include <boost/geometry/geometry.hpp>
 #include <boost/test/unit_test.hpp>

@@ -3,8 +3,8 @@
  * Wavefront characteristics at a specific point in time.
  */
 
-#include <usml/ocean/profile_model.h>
-#include <usml/waveq3d/wave_front.h>
+#include <ocean/profile_model.h>
+#include <waveq3d/wave_front.h>
 
 #include <algorithm>
 #include <boost/numeric/ublas/detail/definitions.hpp>

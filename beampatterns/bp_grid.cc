@@ -3,8 +3,8 @@
  * Constructs a beam pattern from a data grid.
  */
 
-#include <usml/beampatterns/bp_grid.h>
-#include <usml/ublas/math_traits.h>
+#include <beampatterns/bp_grid.h>
+#include <ublas/math_traits.h>
 
 #include <cmath>
 #include <memory>

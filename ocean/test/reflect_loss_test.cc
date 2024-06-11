@@ -1,8 +1,8 @@
 /**
  * @example ocean/test/reflect_loss_test.cc
  */
-#include <usml/ocean/ocean.h>
-#include <usml/types/types.h>
+#include <ocean/ocean.h>
+#include <types/types.h>
 
 #include <boost/test/unit_test.hpp>
 #include <fstream>

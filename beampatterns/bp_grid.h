@@ -4,11 +4,11 @@
  */
 #pragma once
 
-#include <usml/beampatterns/bp_model.h>
-#include <usml/types/bvector.h>
-#include <usml/types/data_grid.h>
-#include <usml/types/seq_vector.h>
-#include <usml/usml_config.h>
+#include <beampatterns/bp_model.h>
+#include <types/bvector.h>
+#include <types/data_grid.h>
+#include <types/seq_vector.h>
+#include <usml_config.h>
 
 #include <boost/numeric/ublas/vector.hpp>
 

@@ -1,7 +1,7 @@
 /**
  * @example beampatterns/test/bp_test.cc
  */
-#include <usml/beampatterns/beampatterns.h>
+#include <beampatterns/beampatterns.h>
 
 #include <boost/numeric/ublas/assignment.hpp>
 #include <boost/numeric/ublas/io.hpp>

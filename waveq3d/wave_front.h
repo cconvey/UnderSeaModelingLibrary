@@ -4,12 +4,12 @@
  */
 #pragma once
 
-#include <usml/ocean/ocean_model.h>
-#include <usml/types/seq_vector.h>
-#include <usml/types/wposition.h>
-#include <usml/types/wposition1.h>
-#include <usml/types/wvector.h>
-#include <usml/usml_config.h>
+#include <ocean/ocean_model.h>
+#include <types/seq_vector.h>
+#include <types/wposition.h>
+#include <types/wposition1.h>
+#include <types/wvector.h>
+#include <usml_config.h>
 
 #include <boost/numeric/ublas/matrix.hpp>
 #include <boost/numeric/ublas/vector.hpp>

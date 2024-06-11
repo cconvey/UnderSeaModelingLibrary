@@ -3,15 +3,15 @@
  * Spreading loss based on classic ray theory.
  */
 
-#include <usml/types/seq_vector.h>
-#include <usml/types/wposition.h>
-#include <usml/types/wposition1.h>
-#include <usml/types/wvector.h>
-#include <usml/types/wvector1.h>
-#include <usml/ublas/math_traits.h>
-#include <usml/waveq3d/spreading_ray.h>
-#include <usml/waveq3d/wave_front.h>
-#include <usml/waveq3d/wave_queue.h>
+#include <types/seq_vector.h>
+#include <types/wposition.h>
+#include <types/wposition1.h>
+#include <types/wvector.h>
+#include <types/wvector1.h>
+#include <ublas/math_traits.h>
+#include <waveq3d/spreading_ray.h>
+#include <waveq3d/wave_front.h>
+#include <waveq3d/wave_queue.h>
 
 #include <boost/numeric/ublas/matrix.hpp>
 #include <boost/numeric/ublas/vector.hpp>

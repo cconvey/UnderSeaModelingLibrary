@@ -15,6 +15,6 @@
  */
 #pragma once
 
-#include <usml/platforms/motion_thresholds.h>
-#include <usml/platforms/platform_manager.h>
-#include <usml/platforms/platform_model.h>
+#include <platforms/motion_thresholds.h>
+#include <platforms/platform_manager.h>
+#include <platforms/platform_model.h>

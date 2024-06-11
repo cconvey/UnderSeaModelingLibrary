@@ -3,7 +3,7 @@
  * Creates an analytic model for the Bi-Linear, Linear or Constant profile.
  */
 
-#include <usml/ocean/profile_linear.h>
+#include <ocean/profile_linear.h>
 
 using namespace usml::ocean;
 

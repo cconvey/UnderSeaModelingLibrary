@@ -3,10 +3,10 @@
  * Solid angle (aka cookie-cutter) beam pattern.
  */
 
-#include <usml/beampatterns/bp_solid.h>
-#include <usml/types/bvector.h>
-#include <usml/types/seq_vector.h>
-#include <usml/ublas/math_traits.h>
+#include <beampatterns/bp_solid.h>
+#include <types/bvector.h>
+#include <types/seq_vector.h>
+#include <ublas/math_traits.h>
 
 #include <algorithm>
 #include <boost/numeric/ublas/detail/definitions.hpp>

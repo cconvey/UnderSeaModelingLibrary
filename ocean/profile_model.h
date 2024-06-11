@@ -4,9 +4,9 @@
  */
 #pragma once
 
-#include <usml/ocean/attenuation_thorp.h>
-#include <usml/types/wposition.h>
-#include <usml/types/wvector.h>
+#include <ocean/attenuation_thorp.h>
+#include <types/wposition.h>
+#include <types/wvector.h>
 
 namespace usml {
 namespace ocean {

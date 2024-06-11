@@ -12,8 +12,8 @@
  */
 #pragma once
 
-#include <usml/eigenrays/eigenray_model.h>
-#include <usml/eigenrays/eigenray_collection.h>
-#include <usml/eigenrays/eigenray_listener.h>
-#include <usml/eigenrays/eigenray_notifier.h>
+#include <eigenrays/eigenray_model.h>
+#include <eigenrays/eigenray_collection.h>
+#include <eigenrays/eigenray_listener.h>
+#include <eigenrays/eigenray_notifier.h>
 

@@ -3,20 +3,20 @@
  */
 
 #include <bits/types/time_t.h>
-#include <usml/beampatterns/bp_line.h>
-#include <usml/beampatterns/bp_model.h>
-#include <usml/beampatterns/bp_omni.h>
-#include <usml/beampatterns/bp_trig.h>
-#include <usml/ocean/ocean_utils.h>
-#include <usml/platforms/platform_model.h>
-#include <usml/sensors/sensor_manager.h>
-#include <usml/sensors/sensor_model.h>
-#include <usml/threads/thread_task.h>
-#include <usml/types/orientation.h>
-#include <usml/types/seq_linear.h>
-#include <usml/types/seq_vector.h>
-#include <usml/types/wposition1.h>
-#include <usml/usml_config.h>
+#include <beampatterns/bp_line.h>
+#include <beampatterns/bp_model.h>
+#include <beampatterns/bp_omni.h>
+#include <beampatterns/bp_trig.h>
+#include <ocean/ocean_utils.h>
+#include <platforms/platform_model.h>
+#include <sensors/sensor_manager.h>
+#include <sensors/sensor_model.h>
+#include <threads/thread_task.h>
+#include <types/orientation.h>
+#include <types/seq_linear.h>
+#include <types/seq_vector.h>
+#include <types/wposition1.h>
+#include <usml_config.h>
 
 #include <iostream>
 #include <memory>

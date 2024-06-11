@@ -3,8 +3,8 @@
  * Singleton version of a thread_pool.
  */
 
-#include <usml/threads/thread_controller.h>
-#include <usml/threads/thread_pool.h>
+#include <threads/thread_controller.h>
+#include <threads/thread_pool.h>
 
 using namespace usml::threads;
 
