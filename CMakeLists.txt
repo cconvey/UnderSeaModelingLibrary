@@ -26,6 +26,9 @@ project( usml C CXX )
 ######################################################################
 # setup USML
 
+set(CMAKE_CXX_FLAGS_RELEASE="${CMAKE_CXX_FLAGS_RELEASE} -no-omit-fp -ggdb")
+set(CMAKE_CXX_FLAGS_RELWITHDEBINFO="${CMAKE_CXX_FLAGS_RELWITHDEBINFO} -no-omit-fp -ggdb")
+
 file(STRINGS config/VERSION.txt PACKAGE_VERSION)
 message(STATUS "USML version ${PACKAGE_VERSION}" )
 set( CMAKE_MODULE_PATH ${CMAKE_MODULE_PATH} "${CMAKE_SOURCE_DIR}/config" )
