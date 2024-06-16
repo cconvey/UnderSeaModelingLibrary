@@ -65,7 +65,8 @@ int main(int argc, char* argv[]) {
     seq_vector::csptr az(new seq_linear(0.0, 15.0, 360.0));
     const double target_depth = 100.0;     // meters
     const double target_range = 100000.0;  // meters
-    const double time_max = 80.0;
+const double time_max = 80.0;
+//    const double time_max = 800.0;
     const double time_step = 0.100;
 
     // load STD14 environmental data from netCDF files
