@@ -152,9 +152,11 @@ class USML_DECLSPEC data_grid_svp : public gen_grid<3> {
      * @param derivative Calculates first derivative if not nullptr
      */
     double interpolate(double* location, double* derivative = nullptr) const {
+        constexpr size_t NUM_DIM = 3;
+
         double result = 0.0;
-        size_t k0, k1, k2;  // indices of he offset data
-        size_t offset[2];
+        size_t k0, k1, k2;  // indices of the offset data
+        size_t offset[NUM_DIM];
         // bi-linear variables
         double f11, f21, f12, f22, x_diff, y_diff;
         double x, x1, x2, y, y1, y2;
@@ -166,7 +168,7 @@ class USML_DECLSPEC data_grid_svp : public gen_grid<3> {
 
         // find the interval index in each dimension
 
-        for (size_t dim = 0; dim < 3; ++dim) {
+        for (size_t dim = 0; dim < NUM_DIM; ++dim) {
             // limit interpolation to axis domain if _edge_limit turned on
 
             if (this->edge_limit(dim)) {
